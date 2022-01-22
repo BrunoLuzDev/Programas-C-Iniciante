@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\bruno\onedrive\documentos\programasc\testnovaversao\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635790259 source:c:\users\bruno\onedrive\documentos\programasc\testnovaversao\ifelse.c
+	<stdio.h>
+	<locale.h>
+
